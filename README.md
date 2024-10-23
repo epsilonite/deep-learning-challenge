@@ -14,8 +14,7 @@ From Alphabet Soup’s business team, we have received a CSV containing more tha
 * SPECIAL_CONSIDERATIONS — Special considerations for application
 * ASK_AMT — Funding amount requested
 * IS_SUCCESSFUL — Was the money used effectively
-## Neural Network Model
-
+## [Neural Network Model Report](Alphabet%20Soup%20Charity/report.md)
 ## Reference
 Krishnan, Sandhya. "How do determine the number of layers and neurons in the hidden layer?" Medium, https://medium.com/geekculture/introduction-to-neural-network-2f8b8221fbd3 (23 Oct. 2024).
 
