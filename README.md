@@ -17,4 +17,6 @@ From Alphabet Soup’s business team, we have received a CSV containing more tha
 ## Neural Network Model
 
 ## Reference
-Krishnan, Sandhya. "Introduction to Neural Network." Medium, https://medium.com/geekculture/introduction-to-neural-network-2f8b8221fbd3 (23 Oct. 2024).
+Krishnan, Sandhya. "How do determine the number of layers and neurons in the hidden layer?" Medium, https://medium.com/geekculture/introduction-to-neural-network-2f8b8221fbd3 (23 Oct. 2024).
+
+"Overfit and Underfit." TensorFlow, https://www.tensorflow.org/tutorials/keras/overfit_and_underfit (23 Oct. 2024).
